@@ -7,12 +7,14 @@ El usuario acepta tener autorización del servidor del correo de la victima y de
 
 Desarrollado por: @HackeaMesta | @xoraorg
 Página: www.xora.org/unabomber
+Página: www.xora.org/scripts
 Mirror: www.github.com/HackeaMesta
+correo: contacto@xora.org
 Licencia: Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra, hacer obras derivadas. http://creativecommons.org/licenses/by-nc-sa/2.5/mx/
 -->
 <html lang="es">
 <head>
-  <meta charset="utf-8">
+	<meta charset="utf-8">
 	<meta name="application-name" content="UnaBomber PHP">
 	<meta name="description" content="Mail Bomber para envio masivo de Email por PHP">
 	<meta name="author" content="@HackeaMesta">
